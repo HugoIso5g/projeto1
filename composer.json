@@ -1,0 +1,15 @@
+{
+    "name": "hugo/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Hugo Tavares",
+            "email": "hugopessanha22@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
